@@ -1,9 +1,0 @@
-README.md
-llm_fragments_rust.py
-pyproject.toml
-llm_fragments_rust.egg-info/PKG-INFO
-llm_fragments_rust.egg-info/SOURCES.txt
-llm_fragments_rust.egg-info/dependency_links.txt
-llm_fragments_rust.egg-info/entry_points.txt
-llm_fragments_rust.egg-info/requires.txt
-llm_fragments_rust.egg-info/top_level.txt
