@@ -1,0 +1,21 @@
+[project]
+name = "llm-fragments-rust"
+version = "0.1"
+description = "LLM plugin for pulling Rust crate docs"
+authors = [{name = "Francois Garillot <francois@garillot.net>"}]
+license = "ISC"
+requires-python = ">=3.9"
+dependencies = [
+    "llm>=0.24"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+Homepage = "https://github.com/huitseeker/llm-fragments-rust"
+Issues = "https://github.com/huitseeker/llm-fragments-rust/issues"
+
+[project.entry-points.llm]
+fragments_rust = "llm_fragments_rust"
