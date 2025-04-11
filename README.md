@@ -15,8 +15,8 @@ llm install llm-fragments-rust
 For development installation:
 
 ```bash
-git clone https://github.com/huitseeker/mostly-harmless.git
-cd mostly-harmless/llm-fragments-rust
+git clone https://github.com/huitseeker/llm-fragments-rust.git
+cd llm-fragments-rust
 llm install -e .
 ```
 
